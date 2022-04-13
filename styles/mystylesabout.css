@@ -1,0 +1,31 @@
+p{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+h1{
+    line-height: 50px;
+    margin-bottom: 180px;
+}
+
+#mypic{
+    border-radius: 8px;
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+}
+
+.mb-4{
+   background-color: rgb(233, 201, 159); 
+}
+
+footer{
+    background-color: rgb(233, 201, 159);
+}
+
+.contact{
+    text-align: center;
+    font-size: small;
+}
